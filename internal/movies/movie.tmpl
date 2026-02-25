@@ -1,0 +1,23 @@
+!{{ .Poster }}
+
+{{ .ReleaseDate | year }}  • {{ .Genres | inline }} • {{ .Runtime }}m
+{{ if .Collection }}
+{{ .Collection }}
+{{ end }}
+# Synopsis
+
+{{ .Synopsis }}
+
+# Cast
+
+{{ range .Cast -}}
+- {{ . }}
+{{ end }}
+# Review
+
+![[reviews/{{ .Title }}]]
+
+# Links
+
+- **IMDB:** {{ .IMDBURL }}
+- **TMDB:** {{ .TMDBURL }}

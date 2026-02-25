@@ -1,0 +1,7 @@
+github.com/haleyrc/lib v0.0.10 h1:rS7O2/vvWfo+akyKPA0V6GN7+GBgsd6NlOoMHcr13Kw=
+github.com/haleyrc/lib v0.0.10/go.mod h1:AYkW7CJhdTzefaa20uYEC2//9VXLwGRHIalPhxZkMHc=
+github.com/haleyrc/lib v0.0.11 h1:0MML6/+MT/UQ4yUJ0wLgyAj8If/zOXXSoUAoYKWxl7c=
+github.com/haleyrc/lib v0.0.11/go.mod h1:AYkW7CJhdTzefaa20uYEC2//9VXLwGRHIalPhxZkMHc=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
